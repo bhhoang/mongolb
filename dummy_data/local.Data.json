@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbdc"
+  },
+  "name": "Laptop",
+  "type": "Gaming",
+  "brand": "Asus",
+  "price": 999
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbdd"
+  },
+  "name": "Laptop",
+  "type": "Business",
+  "brand": "Dell",
+  "price": 799
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbde"
+  },
+  "name": "Laptop",
+  "type": "Gaming",
+  "brand": "MSI",
+  "price": 1099
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbdf"
+  },
+  "name": "Laptop",
+  "type": "Business",
+  "brand": "HP",
+  "price": 899
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbe0"
+  },
+  "name": "Laptop",
+  "type": "Gaming",
+  "brand": "Acer",
+  "price": 899
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbe1"
+  },
+  "name": "Laptop",
+  "type": "Business",
+  "brand": "Lenovo",
+  "price": 799
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbe2"
+  },
+  "name": "Laptop",
+  "type": "Gaming",
+  "brand": "Razer",
+  "price": 1299
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbe3"
+  },
+  "name": "Laptop",
+  "type": "Business",
+  "brand": "Apple",
+  "price": 1299
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbe4"
+  },
+  "name": "Laptop",
+  "type": "Gaming",
+  "brand": "Alienware",
+  "price": 1499
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbe5"
+  },
+  "name": "Laptop",
+  "type": "Business",
+  "brand": "Microsoft",
+  "price": 999
+},
+{
+  "_id": {
+    "$oid": "6614209acd52a06f6396bbe6"
+  },
+  "name": "Laptop",
+  "type": "Gaming",
+  "brand": "Gigabyte",
+  "price": 999
+}]
