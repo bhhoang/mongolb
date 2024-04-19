@@ -29,7 +29,7 @@ set(LIBMONGOCXX_LIBRARIES "${MONGO_CXX_DRIVER_ABSOLUTE}/lib/libmongocxx.so")
 set(LIBBSONCXX_LIBRARIES "${MONGO_CXX_DRIVER_ABSOLUTE}/lib/libbsoncxx.so")
 
 # Executable
-add_executable(mongo_app mongodb.cpp)
+add_executable(mongo_app search.cpp)
 
 # Link libraries
 target_link_libraries(mongo_app ${MONGO_CXX_DRIVER_ABSOLUTE}/lib/libmongoc-1.0.so)
