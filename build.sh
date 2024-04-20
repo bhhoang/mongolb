@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-Check if lib/boost is present
+#Check if lib/boost is present
 if [ ! -d "lib/boost" ]; then
     echo "Not found lib/boost"
     exit 1
