@@ -1,4 +1,4 @@
-OBJS = mainlb.cpp
+OBJS = src/mainlb.cpp src/handler/handshake.cpp
 
 CC = g++
 
